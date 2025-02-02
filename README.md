@@ -5,8 +5,8 @@ a chatbot that helps you plan what to study for the day
 - install dependencies from requirements.txt
     ``pip install -r requirements.txt``
 - install ollama
-- run ollama run llama3.2
-- run ollama pull nomic-embed-text
-- run populate_database.py
+- run ``ollama run llama3.2``
+- run ``ollama pull nomic-embed-text``
+- run ``populate_database.py``
 - to start the chatbot run
-    ``py bot.py"``
+    ``"py bot.py"``
